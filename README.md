@@ -4,4 +4,4 @@
 
 https://ayhanaycan.github.io/JS-Axios/
 
-![](/image/JS-Axios.gif)
+![](JS-Axios.gif)
